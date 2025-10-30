@@ -6,17 +6,13 @@ public class H1_main {
 		
 		int z = 90;
 		
-		if (z<=10) {
-			
-			System.out.print(z);
-			
-		}
-		else {
+		if (z>10) {
 			
 			z=z-10;
-			System.out.print(z);
 			
 		}
+		
+		System.out.print(z);
 		
 	}
 	
