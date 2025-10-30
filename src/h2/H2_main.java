@@ -15,28 +15,27 @@ public class H2_main {
 			max = i;
 			
 		}
-
 		else if (j > i && j > k) {
 			
 			max = j;
 			
 		}
-
 		else if (k > i && k > j) {
 			
 			max = k;
 			
 		}
-
+		
 		if (i < j && i < k) {
 			
-			min = i;
-			
-		} else if (j < i && j < k) {
+			min = i;		
+		} 
+		else if (j < i && j < k) {
 			
 			min = j;
 			
-		} else if (k < i && k < j) {
+		} 
+		else if (k < i && k < j) {
 			
 			min = k;
 
