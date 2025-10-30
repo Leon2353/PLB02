@@ -31,7 +31,7 @@ public class H3_main {
 
 		}
 		
-		//System.out.println("k lautet: " + k);
+		System.out.println("k lautet: " + k);
 
 	}
 
