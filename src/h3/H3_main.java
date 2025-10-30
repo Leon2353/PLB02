@@ -22,7 +22,6 @@ public class H3_main {
 
 				}
 			}
-
 		}
 
 		else if (i <= j && i <= 200 && j <= 100) {
@@ -31,7 +30,7 @@ public class H3_main {
 
 		}
 		
-		System.out.println("k lautet: " + k);
+		//System.out.println("k lautet: " + k);
 
 	}
 

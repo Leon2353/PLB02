@@ -41,8 +41,8 @@ public class H2_main {
 
 		}
 
-		System.out.println("Das Maximum liegt bei: " + max);
-		System.out.println("Das Minimum liegt bei: " + min);
+		//System.out.println("Das Maximum liegt bei: " + max);
+		//System.out.println("Das Minimum liegt bei: " + min);
 	}
 
 }

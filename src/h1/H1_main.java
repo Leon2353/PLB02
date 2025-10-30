@@ -12,7 +12,7 @@ public class H1_main {
 			
 		}
 		
-		System.out.print(z);
+		//System.out.print(z);
 		
 	}
 	
