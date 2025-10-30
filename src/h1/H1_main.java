@@ -4,13 +4,17 @@ public class H1_main {
 	
 	public static void main (String[] args) {
 		
-		int z = 108;
+		int z = 90;
 		
 		if (z<=10) {
+			
 			System.out.print(z);
+			
 		}
 		else {
-			System.out.print(z-10);
+			
+			z=z-10;
+			System.out.print(z);
 			
 		}
 		
